@@ -17,4 +17,6 @@
 
 For detailed explanation of the project, please refer to the [project description](OSA_REPORT.pdf).
 
+**Grade received:** 16.5/20 (second best grade in the class)
+
 
